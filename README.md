@@ -103,6 +103,8 @@ Each dashboard was designed with a focus on clarity, actionability, and dynamic 
 
 **Payment Insights:** Bank Transfers and PayPal emerged as preferred payment methods, indicating customer trust in digital payment solutions.
 
+![Location Analysis](https://github.com/user-attachments/assets/a816fe79-826a-4f59-9fd6-4bd84c6b1b3b)
+
 
 ### **RECOMMENDATIONS**
 
