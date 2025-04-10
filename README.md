@@ -89,7 +89,7 @@ Each dashboard was designed with a focus on clarity, actionability, and dynamic 
 
 ![Sales Overview](https://github.com/user-attachments/assets/4b30fd3a-eb61-40da-80c8-25f9442bdc6a)
 
-### **Key Findings**
+### **KEY FINDINGS**
 
 **Sales Channel Distribution:** Online sales were dominant, showing higher reach and repeat purchases. However, in-store channels attract higher-value purchases, while online channels drive volume.
 
@@ -104,7 +104,7 @@ Each dashboard was designed with a focus on clarity, actionability, and dynamic 
 **Payment Insights:** Bank Transfers and PayPal emerged as preferred payment methods, indicating customer trust in digital payment solutions.
 
 
-### **Recommendations**
+### **RECOMMENDATIONS**
 
 1. **Data Quality Overhaul:**
 
@@ -122,12 +122,12 @@ Each dashboard was designed with a focus on clarity, actionability, and dynamic 
 
 4. **Tech Investments:**
 
-   - Develop a real-time Business Intelligence dashboard to monitor data quality KPIs.
+   - Develop a real-time Business Intelligence dashboard to monitor business data KPIs.
 
    - Train staff on data entry protocols to minimize errors.
 
 
-### **Conlusions**
+### **CONCLUSION**
 
 This analysis highlights the value of using business intelligence tools to interpret sales data in a fast-moving e-commerce environment. By transforming raw transactional data into meaningful insights, the analysis identifies key strengths such as product performance and geographic demand while also pointing to opportunities for improvement in logistics and payment experiences.
 
