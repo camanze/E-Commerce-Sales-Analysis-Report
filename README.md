@@ -85,7 +85,7 @@ I used Power BI to create interactive and insightful dashboards to uncover patte
 
 * **Payment Preferences:** Analyzing how different payment methods correlate with order volume and returns.
 
-Each dashboard was designed with a focus on clarity, actionability, and dynamic filtering to support ad-hoc decision-making. 
+Each dashboard was designed with a focus on clarity, actionability, and dynamic filtering to support ad-hoc decision-making. To explore the interactive Power BI dashboards, [Click Here](https://app.powerbi.com/view?r=eyJrIjoiOWQ4NGEzYmMtMTY0YS00ZDE4LTg3YmUtY2U3ODQ0Y2E0NThhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9).
 
 ![Sales Overview](https://github.com/user-attachments/assets/4b30fd3a-eb61-40da-80c8-25f9442bdc6a)
 
